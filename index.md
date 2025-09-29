@@ -4,7 +4,8 @@
 
 I am just learning and do not know what I am doing
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
+``` javascript
+var myVar = "Hello, world!";
+```
 
 ![Filmtocats](https://octodex.github.com/images/filmtocats.png)
